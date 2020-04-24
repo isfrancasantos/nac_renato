@@ -1,0 +1,15 @@
+ismael Santos RM 82851
+
+A
+A empresa deseja criar aplicação android/ web. TI criar aplicativo e manter funcionando para clientes manter suas consultas -  COBIT Disponibilidade
+Número de programações de voo gerados a cada mês e por cliente – TI verificar os dados de rotas - Confiabilidade 
+Aplicação de ter uma plataforma de pedidos de voo
+
+
+B
+Se encontra no nível 2 – A empresa ainda não possui todos os processos e ferramentas definidas.
+
+C
+GIT – Gereciamento de projetos
+Oracle Modeler – planejamento do projeto
+Bizagi Modeler - Criação de modelos logicos
